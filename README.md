@@ -1,1 +1,3 @@
-# Machine-learning-homeworks
+# Machine-learning
+
+Machine learning homeworks
